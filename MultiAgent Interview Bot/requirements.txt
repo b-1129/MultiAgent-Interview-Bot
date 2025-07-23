@@ -1,0 +1,16 @@
+langchain
+langgraph
+langchain-google-genai
+langchain-groq
+python-dotenv
+langchain_tavily
+langchain_community
+python-docx
+pypdf
+pypdf2
+requests
+beautifulsoup4
+SpeechRecognition
+gTTS
+pyaudio
+streamlit
